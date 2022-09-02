@@ -21,3 +21,10 @@
 
   - Поглиблення знань HTML та CSS.
   
+## Responsive Web Design
+![Flexbox Froggy](./task_responsive_web_design/flexbox-froggy.png "Flexbox Froggy")
+![Grid Garden](./task_responsive_web_design/grid-garden.png "Grid Garden")
+
+  - - Поглиблення знань Responsive Web Design.
+  - - Поглиблення знань Flex та Grid.
+  
