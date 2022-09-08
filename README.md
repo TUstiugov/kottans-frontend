@@ -25,6 +25,15 @@
 ![Flexbox Froggy](./task_responsive_web_design/flexbox-froggy.png "Flexbox Froggy")
 ![Grid Garden](./task_responsive_web_design/grid-garden.png "Grid Garden")
 
-  - - Поглиблення знань Responsive Web Design.
-  - - Поглиблення знань Flex та Grid.
+  - Поглиблення знань Responsive Web Design.
+  - Поглиблення знань Flex та Grid.
   
+## JS Basics
+  - [Basic JavaScript](./task_js_basics/freeCodeCamp-basicJS.png "Basic JavaScript")
+  - [ES6 Challenges](./task_js_basics/freeCodeCamp-es6.png "ES6 Challenges")
+  - [Basic Data Structures](./task_js_basics/freeCodeCamp-basicDS.png "Basic Data Structures")
+  - [Basic Algorithm Scripting](./task_js_basics/freeCodeCamp-basicAlgorithm.png "Basic Algorithm Scripting")
+  - [Functional Programming](./task_js_basics/freeCodeCamp-FP.png "Functional Programming")
+  - [Algorithm Scripting Challenges](./task_js_basics/freeCodeCamp-Algorithm.png "Algorithm Scripting Challenges")
+
+Вивчення основ мови програмування JavaScript.
